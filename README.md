@@ -1,5 +1,15 @@
 # MECA 482 Spring 2020
 ### Treadmill Stabilizer 
 
+-------------------------------------------------------------------------------------
 
-![](images/IMG%201698.jpg)
+this is a draft 
+
+
+
+-------------------------------------------------------------------------------------
+
+
+<p align = "center">
+  <img src = "Main/blob/master/USSPCSO.PNG" height = "360px" style="margin:10px 10px">
+</p>
