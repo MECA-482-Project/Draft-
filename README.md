@@ -3,7 +3,7 @@
 
 -------------------------------------------------------------------------------------
 
-this is a draft 
+Control System Design of Low Impact Treadmill
 
 
 
