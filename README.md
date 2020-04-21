@@ -16,10 +16,10 @@ Control System Design of Low Impact Treadmill
 
 ## Description of the project:
 <center>
-   <h2> California State University Chico
-        College of Engineering, Computer Science, and Construction Management
-        MECA 482 Control System Design
-        Control System Design of Low Impact Treadmill</h2> 
+   <h2> California State University Chico </h2>
+   <h2> College of Engineering, Computer Science, and Construction Management</h2> 
+   <h2> MECA 482 Control System Design</h2> 
+   <h2> Control System Design of Low Impact Treadmill</h2> 
    <p>This text may be centered...but you would be better off using CSS to center text or other elements on a web page.</p> 
 </center>
 
