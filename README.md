@@ -14,10 +14,10 @@ Control System Design of Low Impact Treadmill
 
 
 <center>
-   <h2> California State University Chico </h2>
-   <h2> College of Engineering, Computer Science, and Construction Management</h2> 
-   <h2> MECA 482 Control System Design</h2> 
-   <h2> Control System Design of Low Impact Treadmill</h2> 
+   <h3> California State University Chico </h3>
+   <h3> College of Engineering, Computer Science, and Construction Management</h3> 
+   <h3> MECA 482 Control System Design</h3> 
+   <h3> Control System Design of Low Impact Treadmill</h3> 
 </center>
 
 ## 1. Introduction 
@@ -25,7 +25,17 @@ The actively damped treadmill system consists of a treadmill and suspension syst
 
 #### Table of Contents
 - [1. Introduction](#1-Introduction) 
+- [2. Control Theory Modeling](#2-Control Theory Modeling)
+- [3. Design and Simulation](#3-Design and Simulation)
+- [4. Appendix](#4-Appendix)
+- [5. References](#5-References)
 
+## 2. Control Theory Modeling
 
+## 3. Design and Simulation
+
+## 4. Appendix
+
+## 5. References
 Sample High-Level Architecture:
 
