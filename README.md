@@ -10,7 +10,10 @@ Control System Design of Low Impact Treadmill
 -------------------------------------------------------------------------------------
 
 
-![](photos/USSPCSO.PNG)
+<p align = "center">
+  <img src = "photos/HeaderPhoto.PNG" height = "320px" style="margin:10px 10px">
+</p>
+
 
 
 <center>
