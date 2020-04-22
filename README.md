@@ -33,9 +33,10 @@ The actively damped treadmill system consists of a treadmill and suspension syst
 ## 2. Control Theory Modeling
 Sample High-Level Architecture:
 
-.center {
-display: ![](photos/Treadmill%20System%20ModelResize.png)
-}
+<p align = "center">
+  <img src = "photos/Treadmill%20System%20ModelResize.png" height = "260px" style="margin:10px 10px">
+</p>
+
 
 ## 3. Design and Simulation
 
