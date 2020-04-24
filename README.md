@@ -47,3 +47,9 @@ Sample High-Level Architecture:
 
 ## 5. References
 
+
+
+    *** Note other deliverables needed include 
+    - mathematical model of system
+    - simulink control system
+    - coppelia simulation 
