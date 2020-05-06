@@ -28,12 +28,11 @@ The actively damped treadmill system consists of a treadmill and suspension syst
 
 #### Table of Contents
 - [1. Introduction](#1-Introduction)
-- [1. Introduction](#1-Introduction)
-
 - [2. Control Theory Modeling](#2-Control-Theory-Modeling)
-- [3. Design and Simulation](#3-Design-and-Simulation)
-- [4. Appendix](#4-Appendix)
-- [5. References](#5-References)
+- [3. Dynamic Modeling](#3-Dynamic-Modeling) 
+- [4. Design and Simulation](#4-Design-and-Simulation)
+- [5. Appendix](#5-Appendix)
+- [6. References](#6-References)
 
 ## 2. Control Theory Modeling
 Sample High-Level Architecture:
@@ -42,8 +41,13 @@ Sample High-Level Architecture:
   <img src = "photos/Treadmill%20System%20ModelResize.png" height = "260px" style="margin:10px 10px">
 </p>
 
+## 3. Dynamic Modeling 
 
-## 3. Design and Simulation
+insert system dynamic modeling here....
+
+
+
+## 4. Design and Simulation
 
 System simulation was done using Coppelia-Sim. Treadmill spring dampeners were siumulated using prismaic joints with an accompanying 
 Lua script in order to simulate a realistic spring with a constant value of..................... The resulting sumulation is shown
@@ -59,9 +63,11 @@ below
 
 insert code snippets here? 
 
-## 4. Appendix
+## 5. Appendix
 
-## 5. References
+insert references here 
+
+## 6. References
 
 
 
