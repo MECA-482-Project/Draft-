@@ -45,6 +45,12 @@ Sample High-Level Architecture:
 
 ## 3. Design and Simulation
 
+System simulation was done using Coppelia-Sim. Treadmill spring dampeners were siumulated using prismaic joints with an accompanying 
+Lua script in order to simulate a realistic spring with a constant value of..................... The resulting sumulation is shown
+below
+
+
+
 <p align = "center">
 <iframe src="https://drive.google.com/file/d/1iJTwLz7N1gv0qS0AZx7YD2bzRThr-MQ1/preview" width="640" height="480"></iframe>
 </p>
