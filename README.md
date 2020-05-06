@@ -28,6 +28,8 @@ The actively damped treadmill system consists of a treadmill and suspension syst
 
 #### Table of Contents
 - [1. Introduction](#1-Introduction)
+- [1. Introduction](#1-Introduction)
+
 - [2. Control Theory Modeling](#2-Control-Theory-Modeling)
 - [3. Design and Simulation](#3-Design-and-Simulation)
 - [4. Appendix](#4-Appendix)
