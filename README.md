@@ -43,6 +43,10 @@ Sample High-Level Architecture:
 
 ## 3. Design and Simulation
 
+
+<video src="video.mp4" width="320" height="200" controls preload></video>
+
+
 ## 4. Appendix
 
 ## 5. References
