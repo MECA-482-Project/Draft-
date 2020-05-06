@@ -44,8 +44,7 @@ Sample High-Level Architecture:
 ## 3. Design and Simulation
 
 
-<video src="bandicam 2020-05-05 21-51-17-300.mp4" width="320" height="200" controls preload></video>
-
+<iframe src="https://drive.google.com/file/d/1iJTwLz7N1gv0qS0AZx7YD2bzRThr-MQ1/preview" width="640" height="480"></iframe>
 
 ## 4. Appendix
 
