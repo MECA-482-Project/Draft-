@@ -43,8 +43,9 @@ Sample High-Level Architecture:
 
 ## 3. Design and Simulation
 
-
+<p align = "center">
 <iframe src="https://drive.google.com/file/d/1iJTwLz7N1gv0qS0AZx7YD2bzRThr-MQ1/preview" width="640" height="480"></iframe>
+</p>
 
 ## 4. Appendix
 
