@@ -50,15 +50,14 @@ insert system dynamic modeling here....
 ## 4. Design and Simulation
 
 System simulation was done using Coppelia-Sim. Treadmill spring dampeners were siumulated using prismaic joints with an accompanying 
-Lua script in order to simulate a realistic spring with a constant value of..................... The resulting sumulation is shown
-below
-
-
+Lua script in order to simulate a realistic spring with a spring constant value of 566,440 N/M reacting to a downward force of 25 kg
+The resulting Coppelia sumulation is shown below
 
 <p align = "center">
 <iframe src="https://drive.google.com/file/d/1iJTwLz7N1gv0qS0AZx7YD2bzRThr-MQ1/preview" width="640" height="480"></iframe>
 </p>
 
+In addition we alsl simulated a mass-spring system using a Visual Python extension. This allowed for a more accurate representation of the model's spring system. The same values were used to represent with spring with the constant at 566,440 N/M and a downward forcer of 25 kg. In addition to this we were able to model the spring radius, number of coils, and thickness. These values are 1.
 
 
 insert code snippets here? 
