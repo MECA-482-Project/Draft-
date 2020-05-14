@@ -58,6 +58,7 @@ The resulting Coppelia sumulation is shown below
 </p>
 
 In addition we alsl simulated a mass-spring system using a Visual Python extension. This allowed for a more accurate representation of the model's spring system. The same values were used to represent with spring with the constant at 566,440 N/M and a downward forcer of 25 kg. In addition to this we were able to model the spring radius, number of coils, and thickness. These values are 1.25, 10, and .625 respectively. Below is the Visual Python simulation of the spring system. 
+
 <p align = "center">
 <iframe src="https://drive.google.com/file/d/1QYyIK3fJww9SpjU0dAVV3TSc2jne2dbq/preview" width="640" height="480"></iframe>
 </p>
