@@ -123,6 +123,13 @@ insert references here
 
 ## 6. References
 
+Kenneth P. Clark, Laurence J. Ryan, Peter G. Weyand
+Journal of Experimental Biology 2017 220: 247-258; doi: 10.1242/jeb.138057
+https://jeb.biologists.org/content/220/2/247
+
+Surface effects on ground reaction forces and lower extremity kinematics in running
+DIXON, SHARON J.; COLLOP, ANDREW C.; BATT, MARK E.
+https://journals.lww.com/acsm-msse/Fulltext/2000/11000/Surface_effects_on_ground_reaction_forces_and.16.aspx
 
 
     *** Note other deliverables needed include 
