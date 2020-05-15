@@ -100,16 +100,15 @@ In addition we alsl simulated a mass-spring system using a Visual Python extensi
               spring.axis=Mass.pos-spring.pos
               t=t+dt
               
-              Here is a summary of the simulation results with the requirements as shown:
-              /photos/Outpt Values.jpg
               
-              The open loop transfer function of the entire treadmill system, including all of the damping coefficients of each component were modeled into one system below, which is seemingly unsolvable at this point. This equation is not currently being used in this project, but it is included to provide context as to how complicated this problem can become if left unsimplified.
-            
-  
+  The open loop transfer function of the entire treadmill system, including all of the damping coefficients of each component were modeled into one system below, which is seemingly unsolvable at this point. This equation is not currently being used in this project, but it is included to provide context as to how complicated this problem can become if left unsimplified.
   <p align = "center">
   <img src = "photos/Masons%20Rule.png" height = "260px" style="margin:10px 10px">
 </p>
-
+  The open loop transfer function of the entire treadmill system, including all of the damping coefficients of each component were modeled into one system below, which is seemingly unsolvable at this point. This equation is not currently being used in this project, but it is included to provide context as to how complicated this problem can become if left unsimplified.
+  
+  
+  Here is a summary of the simulation results with the requirements as shown:
   <p align = "center">
   <img src = "photos/Output%20Values.png" height = "260px" style="margin:10px 10px">
 </p>
