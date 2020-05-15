@@ -63,6 +63,28 @@ In addition we alsl simulated a mass-spring system using a Visual Python extensi
 <iframe src="https://drive.google.com/file/d/1UyK8NhcIz9nqFU8-gtub95kVcnHaFl65/preview" width="640" height="480"></iframe>
 </p>
 
+        *** from vpython import *
+            #GlowScript 2.9 VPython
+             display(width=700,height=700,center=vector(7,0,0),background=color.white)
+             wall=box(pos=vector(0,1,0),size=vector(0.2,12,12),color=color.white)
+             floor=box(pos=vector(6,-1.75,-1),size=vector(18,0.2,10),color=color.white)
+             Mass=box(pos=vector(12,0,0),velocity=vector(0,0,0),size=vector(1,1,1),mass=10.0,color=color.green)
+              pivot=vector(0,0,0)
+              spring=helix(pos=pivot,axis=Mass.pos-pivot,radius=1.25,constant=566440,thickness=0.625,coils=10,color=color.orange)
+              eq=vector(9,0,0)
+              #spring constant is in units of N/M
+              #spring and block size values are in units of mm
+              t=0
+              dt=0.001
+              while (t<50):
+              rate(100)
+              acc=(eq-Mass.pos)*(spring.constant/Mass.mass)
+              Mass.velocity=Mass.velocity+acc*dt
+              Mass.pos=Mass.pos+Mass.velocity*dt
+              spring.axis=Mass.pos-spring.pos
+              t=t+dt
+              
+              
 insert code snippets here? 
 
 ## 5. Appendix
