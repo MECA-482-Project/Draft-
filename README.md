@@ -107,7 +107,7 @@ In addition we alsl simulated a mass-spring system using a Visual Python extensi
             
   
   <p align = "center">
-  <img src = "photos/Masons%20Rule.jpg" height = "260px" style="margin:10px 10px">
+  <img src = "photos/Masons%20Rule.png" height = "260px" style="margin:10px 10px">
 </p>
 
 
