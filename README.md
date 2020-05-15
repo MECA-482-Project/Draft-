@@ -104,8 +104,11 @@ In addition we alsl simulated a mass-spring system using a Visual Python extensi
               /photos/Outpt Values.jpg
               
               The open loop transfer function of the entire treadmill system, including all of the damping coefficients of each component were modeled into one system below, which is seemingly unsolvable at this point. This equation is not currently being used in this project, but it is included to provide context as to how complicated this problem can become.
-              /photos/Masons Rule.jpg
-              
+            
+  
+  <p align = "center">
+  <img src = "photos/Masons%20Rule" height = "260px" style="margin:10px 10px">
+</p>
               
 insert code snippets here? 
 
