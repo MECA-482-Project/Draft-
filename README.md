@@ -101,9 +101,7 @@ In addition we alsl simulated a mass-spring system using a Visual Python extensi
               t=t+dt
               
               Here is a summary of the simulation results with the requirements as shown:
-<p align = "center">
-  <img src = "photos/Output Values.png" height = "260px" style="margin:10px 10px">
-</p>
+              /photos/Outpt Values.jpg
 insert code snippets here? 
 
 ## 5. Appendix
