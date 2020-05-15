@@ -103,7 +103,7 @@ In addition we alsl simulated a mass-spring system using a Visual Python extensi
               Here is a summary of the simulation results with the requirements as shown:
               /photos/Outpt Values.jpg
               
-              The open loop transfer function of the entire treadmill system, including all of the damping coefficients of each component were modeled into one system below, which is seemingly unsolvable at this point. This equation is not currently being used in this project, but it is included to provide context as to how complicated this problem can become.
+              The open loop transfer function of the entire treadmill system, including all of the damping coefficients of each component were modeled into one system below, which is seemingly unsolvable at this point. This equation is not currently being used in this project, but it is included to provide context as to how complicated this problem can become if left unsimplified.
             
   
   <p align = "center">
@@ -111,9 +111,7 @@ In addition we alsl simulated a mass-spring system using a Visual Python extensi
 </p>
 
 
-<p align = "center">
-  <img src = "photos/Treadmill%20System%20ModelResize.png" height = "200px" style="margin:10px 10px">
-</p>
+
               
 insert code snippets here? 
 
