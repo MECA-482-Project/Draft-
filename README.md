@@ -43,14 +43,21 @@ Sample High-Level Architecture:
 
 ## 3. Dynamic Modeling 
 
-insert system dynamic modeling here....
 <p align = "center">
   <img src = "photos/MKD.png" height = "260px" style="margin:10px 10px">
 </p>
 <p align = "center">
   <img src = "photos/MKD_Smlnk_Mdl.PNG" height = "320px" style="margin:10px 10px">
 </p>
-
+<p align = "center">
+  <img src = "photos/MKD_eqn_Gs.PNG" height = "320px" style="margin:10px 10px">
+</p>
+<p align = "center">
+  <img src = "photos/MKD_eqn_ft.PNG" height = "320px" style="margin:10px 10px">
+</p>
+<p align = "center">
+  <img src = "photos/MKD_eqn_u.PNG" height = "320px" style="margin:10px 10px">
+</p>
 ## 4. Design and Simulation
 
 System simulation was done using Coppelia-Sim. Treadmill spring dampeners were siumulated using prismaic joints with an accompanying 
