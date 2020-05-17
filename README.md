@@ -1,5 +1,5 @@
 # MECA 482 Spring 2020
-### Treadmill Suspension System 
+### Treadmill Stabilizer 
 
 -------------------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ Sample High-Level Architecture:
   <img src = "photos/MKD_eqn_ft.PNG" height = "260px" style="margin:10px 10px">
 </p>
 <p align = "center">
-  <img src = "photos/MKD%20System%20_eqn_u.PNG" width="200" height="40">
+  <img src = "photos/MKD%20System%20_eqn_u.PNG" width="116" height="36" style="margin:10px 10px">
 </p>
 ## 4. Design and Simulation
 
