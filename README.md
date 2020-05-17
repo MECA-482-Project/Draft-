@@ -62,7 +62,7 @@ Sample High-Level Architecture:
 
 System simulation was done using Coppelia-Sim. Treadmill spring dampeners were siumulated using prismaic joints with an accompanying 
 Lua script in order to simulate a realistic spring with a spring constant value of 566,440 N/M reacting to a downward force of 25 kg
-The resulting Coppelia sumulation is shown below
+The resulting Coppelia simulation is shown below
 
 <p align = "center">
 <iframe src="https://drive.google.com/file/d/1JGDH5E4Qt0_5jSQPU98jLqbb_XijHtdo/preview" width="640" height="480"></iframe>
