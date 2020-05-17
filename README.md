@@ -50,13 +50,13 @@ Sample High-Level Architecture:
   <img src = "photos/MKD_Smlnk_Mdl.PNG" height = "320px" style="margin:10px 10px">
 </p>
 <p align = "center">
-  <img src = "photos/MKD_eqn_Gs.PNG" height = "320px" style="margin:10px 10px">
+  <img src = "photos/MKD_eqn_Gs.PNG" height = "260px" style="margin:10px 10px">
 </p>
 <p align = "center">
-  <img src = "photos/MKD_eqn_ft.PNG" height = "320px" style="margin:10px 10px">
+  <img src = "photos/MKD_eqn_ft.PNG" height = "260px" style="margin:10px 10px">
 </p>
 <p align = "center">
-  <img src = "photos/MKD_eqn_u.PNG" height = "320px" style="margin:10px 10px">
+  <img src = "photos/MKD_eqn_u.PNG" height = "260px" style="margin:10px 10px">
 </p>
 ## 4. Design and Simulation
 
