@@ -47,7 +47,7 @@ Sample High-Level Architecture:
   <img src = "photos/MKD_fbd.PNG" "width="504" height="351" style="margin:10px 10px">
 </p>
 <p align = "center">
-  <img src = "photos/MKD.png" height = "260px" style="margin:10px 10px">
+  <img src = "photos/MKD.png" "width="275" height="183" style="margin:10px 10px">
 </p>
 <p align = "center">
   <img src = "photos/MKD_Smlnk_Mdl.PNG" "width="721" height="381" style="margin:10px 10px">
