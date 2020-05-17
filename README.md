@@ -23,9 +23,6 @@ Control System Design of Low Impact Treadmill
    <h4> Control System Design of Low Impact Treadmill</h4> 
 </center>
 
-## 1. Introduction 
-The actively damped treadmill system consists of a treadmill and suspension system which reduces the peak reaction force felt by an object impacting the treadmill. The control is achieved by tuning the damping and spring coefficients in the suspension system, taking into account the spring and damping coefficients of the frame itself. The Project Team’s goal is to develop a comprehensive solution (explained in more details in the deliverables section) to reduce the impact for any weight within the limits.
-
 #### Table of Contents
 - [1. Introduction](#1-Introduction)
 - [2. Control Theory Modeling](#2-Control-Theory-Modeling)
@@ -33,6 +30,9 @@ The actively damped treadmill system consists of a treadmill and suspension syst
 - [4. Design and Simulation](#4-Design-and-Simulation)
 - [5. Appendix](#5-Appendix)
 - [6. References](#6-References)
+
+## 1. Introduction 
+The actively damped treadmill system consists of a treadmill and suspension system which reduces the peak reaction force felt by an object impacting the treadmill. The control is achieved by tuning the damping and spring coefficients in the suspension system, taking into account the spring and damping coefficients of the frame itself. The Project Team’s goal is to develop a comprehensive solution (explained in more details in the deliverables section) to reduce the impact for any weight within the limits.
 
 ## 2. Control Theory Modeling
 Sample High-Level Architecture:
