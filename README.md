@@ -55,9 +55,9 @@ Here, the dynamic properties of the runner are reduced to a single input (F_t), 
   <img src = "photos/MKD_eqn_ft.PNG" width="301" height="71" style="margin:10px 10px">
 </p>    
 
-<p align = "center">
-  <img src = "photos/MKD_eqn_u.PNG" width="281" height="72" style="margin:10px 10px">
-</p>
+//<p align = "center">
+// <img src = "photos/MKD_eqn_u.PNG" width="281" height="72" style="margin:10px 10px">
+//</p>
 
 <p align = "center">
   <img src = "photos/MKD_eqn_Gs.PNG" height = "width="679" height="165" style="margin:10px 10px">
