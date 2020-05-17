@@ -136,7 +136,4 @@ DIXON, SHARON J.; COLLOP, ANDREW C.; BATT, MARK E.
 https://journals.lww.com/acsm-msse/Fulltext/2000/11000/Surface_effects_on_ground_reaction_forces_and.16.aspx
 
 
-    *** Note other deliverables needed include 
-    - mathematical model of system
-    - simulink control system
-    - coppelia simulation 
+ 
