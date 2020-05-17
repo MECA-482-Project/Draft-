@@ -45,24 +45,26 @@ This diagram illustrates the spring and damping properties of the runner's body 
 
 ## 3. Dynamic Modeling 
 
-In order to better approach the problem, it is secessary to simplify the complete model into a single mass-spring-damper system.
+In order to better approach the problem, it is necessary to simplify the complete model into a single mass-spring-damper system.
 <p align = "center">
   <img src = "photos/MKD_fbd.PNG" "width="504" height="351" style="margin:10px 10px">
 </p>
 
-Here, the dynamic properties of the runner are reduced to a single input (F_t), and the dynamic properties of the plate, the frame, and the active damping system are merged into a single mass-spring-damper representation.                                                                        
+Here, the dynamic properties of the runner are reduced to a single input (F_t), and the dynamic properties of the plate, the frame, and the active damping system are merged into a single mass-spring-damper representation. The resulting equation of motion is given below.                                                                        
  <p align = "center">
   <img src = "photos/MKD_eqn_ft.PNG" width="301" height="71" style="margin:10px 10px">
 </p>    
 
-//<p align = "center">
+<!--
+<p align = "center">
 // <img src = "photos/MKD_eqn_u.PNG" width="281" height="72" style="margin:10px 10px">
-//</p>
-
+</p>
+-->
+By applying LaPlace transformations, we can obtain a system transfer function in s-domain.
 <p align = "center">
   <img src = "photos/MKD_eqn_Gs.PNG" height = "width="679" height="165" style="margin:10px 10px">
 </p>
-
+This transfer function allows us to model the system in Simulink, and enables us to better visualize the system response.
 <p align = "center">
   <img src = "photos/MKD_Smlnk_Mdl.PNG" "width="721" height="381" style="margin:10px 10px">
 </p>
