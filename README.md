@@ -49,23 +49,25 @@ In order to better approach the problem, it is secessary to simplify the complet
 <p align = "center">
   <img src = "photos/MKD_fbd.PNG" "width="504" height="351" style="margin:10px 10px">
 </p>
-<p align = "center">
-  <img src = "photos/MKD.png" height = "260px" style="margin:10px 10px">
-</p>
+
 Here, the dynamic properties of the runner are reduced to a single input (F_t), and the dynamic properties of the plate, the frame, and the active damping system are merged into a single mass-spring-damper representation.                                                                        
-                                                                       
-<p align = "center">
-  <img src = "photos/MKD_Smlnk_Mdl.PNG" "width="721" height="381" style="margin:10px 10px">
-</p>
-<p align = "center">
-  <img src = "photos/MKD_eqn_Gs.PNG" height = "width="679" height="165" style="margin:10px 10px">
-</p>
-<p align = "center">
+ <p align = "center">
   <img src = "photos/MKD_eqn_ft.PNG" width="301" height="71" style="margin:10px 10px">
-</p>
+</p>    
+
 <p align = "center">
   <img src = "photos/MKD_eqn_u.PNG" width="281" height="72" style="margin:10px 10px">
 </p>
+
+<p align = "center">
+  <img src = "photos/MKD_eqn_Gs.PNG" height = "width="679" height="165" style="margin:10px 10px">
+</p>
+
+<p align = "center">
+  <img src = "photos/MKD_Smlnk_Mdl.PNG" "width="721" height="381" style="margin:10px 10px">
+</p>
+
+
 
 ## 4. Design and Simulation
 
