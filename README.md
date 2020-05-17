@@ -44,6 +44,9 @@ Sample High-Level Architecture:
 ## 3. Dynamic Modeling 
 
 <p align = "center">
+  <img src = "photos/MKD_fbd.png" "width="504" height="351" style="margin:10px 10px">
+</p>
+<p align = "center">
   <img src = "photos/MKD.png" height = "260px" style="margin:10px 10px">
 </p>
 <p align = "center">
