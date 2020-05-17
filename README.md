@@ -24,7 +24,7 @@ Control System Design of Low Impact Treadmill
 </center>
 
 ## 1. Introduction 
-The actively damped treadmill system consists of a treadmill and suspension system which reduces the peak reaction force felt by an object impacting the treadmill. The control is achieved by tuning the damping and spring coefficients in the suspension system, taking into account the spring and damping coefficients of the frame itself. The Project Team’s goal is to develop a comprehensive solution  to reduce the impact in a predictable, adjustable way, for any user-weight. By adjusting spring and damping coefficients, ground reaction force reduction should be acheived while retaining as much energy as possible in the form of a restorative force, and measurable in terms of percent reduction. 
+The actively damped treadmill system consists of a treadmill and suspension system which reduces the peak reaction force felt by an object impacting the treadmill. The control is achieved by tuning the damping and spring coefficients in the suspension system, taking into account the spring and damping coefficients of the frame itself. The Project Team’s goal is to develop a comprehensive solution (explained in more details in the deliverables section) to reduce the impact for any weight within the limits.
 
 #### Table of Contents
 - [1. Introduction](#1-Introduction)
@@ -44,10 +44,13 @@ Sample High-Level Architecture:
 ## 3. Dynamic Modeling 
 
 <p align = "center">
+  <img src = "photos/MKD_fbd.PNG" "width="504" height="351" style="margin:10px 10px">
+</p>
+<p align = "center">
   <img src = "photos/MKD.png" height = "260px" style="margin:10px 10px">
 </p>
 <p align = "center">
-  <img src = "photos/MKD_Smlnk_Mdl.PNG" height = "320px" style="margin:10px 10px">
+  <img src = "photos/MKD_Smlnk_Mdl.PNG" "width="721" height="381" style="margin:10px 10px">
 </p>
 <p align = "center">
   <img src = "photos/MKD_eqn_Gs.PNG" height = "width="679" height="165" style="margin:10px 10px">
