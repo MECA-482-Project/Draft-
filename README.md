@@ -119,7 +119,11 @@ In addition we also simulated a mass-spring system using a Visual Python extensi
 
 ## 5. Appendix
 
-insert references here 
+Basis for shoe damping estimates:
+https://www.google.com/url?q=https://www.researchgate.net/publication/316526467_The_Effects_of_shoe_stiffness_and_damping_on_the_Gastrocnemius_vibration_during_walking&sa=D&ust=1589745572663000&usg=AFQjCNEl91jeMZW9CHBB52Nol5StPYOswQ
+
+Basis for frame damping estimate:
+https://www.google.com/url?q=https://iopscience.iop.org/article/10.1088/1742-6596/268/1/012022/pdf&sa=D&ust=1589745572662000&usg=AFQjCNGAvX2rAkUiJHnXtbrUmGIrKLEIRA
 
 ## 6. References
 
