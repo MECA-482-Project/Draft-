@@ -45,7 +45,7 @@ Sample High-Level Architecture:
 
 insert system dynamic modeling here....
 <p align = "center">
-  <img src = "photos/MKD%20System%20ModelResize.png" height = "260px" style="margin:10px 10px">
+  <img src = "photos/MKD.png" height = "260px" style="margin:10px 10px">
 </p>
 
 
