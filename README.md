@@ -44,7 +44,9 @@ Sample High-Level Architecture:
 ## 3. Dynamic Modeling 
 
 insert system dynamic modeling here....
-
+<p align = "center">
+  <img src = "photos/MKD%20System%20ModelResize.png" height = "260px" style="margin:10px 10px">
+</p>
 
 
 ## 4. Design and Simulation
