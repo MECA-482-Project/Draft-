@@ -70,7 +70,7 @@ This transfer function allows us to model the system in Simulink, and enables us
 </p>
 </p>
 <video width="320" height="240" autoplay>
-  <source src="Videos'/TreadVid1b.mp4" type="video/mp4">
+  <source src="TreadVid1b.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
