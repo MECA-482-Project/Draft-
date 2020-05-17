@@ -41,16 +41,19 @@ The project is most completely represented as a series of mass-spring-damper sys
 <p align = "center">
   <img src = "photos/Treadmill%20System%20ModelResize.png" height = "260px" style="margin:10px 10px">
 </p>
-This diagram illustrates the spring and damping properties of the runner (K_f, D_f) as they interact with the spring and damping properties of the treadmil plate (K_p, D_p). The plate in turn acts upon the frame, which has its own spring constant (K_frame), and the whole system is supported by the active damping system (K_s, D_s).
+This diagram illustrates the spring and damping properties of the runner's body (K_f, D_f) as they interact with the spring and damping properties of the treadmil plate (K_p, D_p). The plate in turn acts upon the frame, which has its own spring constant (K_frame), and the whole system is supported by the active damping system (K_s, D_s).
 
 ## 3. Dynamic Modeling 
 
+In order to better approach the problem, it is secessary to simplify the complete model into a single mass-spring-damper system.
 <p align = "center">
   <img src = "photos/MKD_fbd.PNG" "width="504" height="351" style="margin:10px 10px">
 </p>
 <p align = "center">
   <img src = "photos/MKD.png" height = "260px" style="margin:10px 10px">
 </p>
+Here, the dynamic properties of the runner are reduced to a single input (F_t), and the dynamic properties of the plate, the frame, and the active damping system are merged into a single mass-spring-damper representation.                                                                        
+                                                                       
 <p align = "center">
   <img src = "photos/MKD_Smlnk_Mdl.PNG" "width="721" height="381" style="margin:10px 10px">
 </p>
