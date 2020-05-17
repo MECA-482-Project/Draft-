@@ -37,9 +37,11 @@ The actively damped treadmill system consists of a treadmill and suspension syst
 ## 2. Control Theory Modeling
 Sample High-Level Architecture:
 
+The project is most completely represented as a series of mass-spring-damper systems stacked upon each other, as illustrated here:
 <p align = "center">
   <img src = "photos/Treadmill%20System%20ModelResize.png" height = "260px" style="margin:10px 10px">
 </p>
+This diagram illustrates the spring and damping properties of the runner (K_f, D_f) as they interact with the spring and damping properties of the treadmil plate (K_p, D_p). The plate in turn acts upon the frame, which has its own spring constant (K_frame), and the whole system is supported by the active damping system (K_s, D_s).
 
 ## 3. Dynamic Modeling 
 
