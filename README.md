@@ -73,7 +73,7 @@ The resulting Coppelia sumulation is shown below
             cyhandle=sim.getObjectHandle('Cylinder')
             cyhandle0=sim.getObjectHandle('Cylinder1')
             initPosition=sim.getObjectPosition(cyhandle,cyhandle0)
-            k=30
+            k=566440
             while sim.getSimulationState()~=sim.simulation_advancing_abouttostop do
             tempPosition=sim.getObjectPosition(cyhandle,cyhandle0)
             distance=tempPosition[3]-initPosition[3]
