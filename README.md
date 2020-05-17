@@ -68,13 +68,7 @@ This transfer function allows us to model the system in Simulink, and enables us
 <p align = "center">
   <img src = "photos/MKD_Smlnk_Mdl.PNG" "width="721" height="381" style="margin:10px 10px">
 </p>
-</p>
-<video width="320" height="240" autoplay>
-  <source src="TreadVid1b.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-</p>
 
 ## 4. Design and Simulation
 
