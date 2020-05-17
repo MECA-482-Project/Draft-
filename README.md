@@ -47,7 +47,9 @@ insert system dynamic modeling here....
 <p align = "center">
   <img src = "photos/MKD.png" height = "260px" style="margin:10px 10px">
 </p>
-
+<p align = "center">
+  <img src = "photos/MKD_Smlnk_Mdl.png" height = "260px" style="margin:10px 10px">
+</p>
 
 ## 4. Design and Simulation
 
