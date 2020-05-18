@@ -160,6 +160,12 @@ https://journals.lww.com/acsm-msse/Fulltext/2000/11000/Surface_effects_on_ground
 
 
 <a href="https://github.com/MECA-482-Project/Main"> Click here to go to our project repository </a>
- 
- 
- 
+
+<p align = "center">
+Project Members:
+Jonathan Bostrom -
+Yuanyuan Ju -
+Nick Lauer -
+Maryam Nassar -
+Caleb Townley
+      </p> 
