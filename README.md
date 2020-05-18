@@ -158,7 +158,8 @@ Surface effects on ground reaction forces and lower extremity kinematics in runn
 DIXON, SHARON J.; COLLOP, ANDREW C.; BATT, MARK E.
 https://journals.lww.com/acsm-msse/Fulltext/2000/11000/Surface_effects_on_ground_reaction_forces_and.16.aspx
 
-Github page:  <a href="https://github.com/MECA-482-Project/Main"> </a>
- 
 
+<a href="https://github.com/MECA-482-Project/Main"> Click here to go to our project repository </a>
+ 
+ 
  
